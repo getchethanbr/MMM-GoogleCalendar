@@ -43,7 +43,7 @@ var config = {
               calendars: [
                 {
                   symbol: "calendar-week",
-                  calendarID: "GoogleCalendarID"
+                  calendarID: "GoogleCalendarID" //mail id
                 },
                 {
                   symbol: "calendar-alt",
