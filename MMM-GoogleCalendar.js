@@ -4,7 +4,7 @@
  * adaptation of MM default calendar module for Google Calendar events
  * MIT Licensed.
  */
-Module.register("MMM-GoogleCalendar", {
+Module.register("MMM-GoogleCalendar", { //module in config.js should have same name
   // Define module defaults
   defaults: {
     maximumEntries: 10, // Total Maximum Entries
